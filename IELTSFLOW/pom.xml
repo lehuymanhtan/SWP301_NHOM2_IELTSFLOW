@@ -30,6 +30,11 @@
             <version>3.1.0-M1</version>
         </dependency>
         <dependency>
+            <groupId>org.glassfish.web</groupId>
+            <artifactId>jakarta.servlet.jsp.jstl</artifactId>
+            <version>3.0.1</version>
+        </dependency>
+        <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
             <version>13.2.1.jre11</version>
@@ -55,6 +60,8 @@
             <version>5.2.1</version>
         </dependency>
     </dependencies>
+    
+   
     
     <build>
         <plugins>
