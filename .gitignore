@@ -1,16 +1,8 @@
-# Compiled class file
+# === BUILD OUTPUT ===
+target/
 *.class
 
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# === PACKAGE FILES ===
 *.jar
 *.war
 *.nar
@@ -19,9 +11,18 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# === LOGS ===
+*.log
 hs_err_pid*
 replay_pid*
 
+# === ENVIRONMENT / SECRETS ===
 .env
-IELTSFLOW/target/
+
+# === IDE FILES ===
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
