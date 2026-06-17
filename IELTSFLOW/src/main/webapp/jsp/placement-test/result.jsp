@@ -103,7 +103,7 @@
     <div class="recom-label">Phân Lớp Đề Xuất</div>
     <div class="recom-level">${levelLabel}</div>
     <div class="recom-desc">
-        Hệ thống AI đã phân tích kết quả bài làm 4 kỹ năng của bạn. Lộ trình học tập tương ứng đã được kích hoạt và cập nhật trực tiếp tại phần Lộ Trình của bạn.
+        Hệ thống AI đã phân tích kết quả bài làm 4 kỹ năng của bạn.
     </div>
 </div>
 
@@ -167,9 +167,6 @@
 
 <!-- ACTIONS -->
 <div class="actions">
-    <a href="${pageContext.request.contextPath}/pathway" class="btn btn-primary" id="btn-view-pathway">
-        🗺️ Xem lộ trình học tập cá nhân
-    </a>
     <a href="${pageContext.request.contextPath}/placement-test" class="btn btn-outline" id="btn-retake-placement">
         🔄 Thi lại đầu vào
     </a>

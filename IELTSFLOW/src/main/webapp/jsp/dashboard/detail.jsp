@@ -150,9 +150,6 @@
     <a href="${pageContext.request.contextPath}/mock-test" class="nav-link" id="nav-mocktest">📝 Mock Test</a>
     <a href="${pageContext.request.contextPath}/placement-test" class="nav-link" id="nav-placement">🎓 Thi đầu vào</a>
     <a href="${pageContext.request.contextPath}/practice" class="nav-link" id="nav-practice">💪 Luyện tập</a>
-    <a href="${pageContext.request.contextPath}/pathway" class="nav-link" id="nav-pathway">🗺️ Lộ trình</a>
-    <a href="${pageContext.request.contextPath}/tickets" class="nav-link" id="nav-tickets">💬 Hỏi đáp</a>
-    <a href="${pageContext.request.contextPath}/profile" class="nav-link" id="nav-profile">👤 Hồ sơ</a>
 </nav>
 
 <main class="main">
